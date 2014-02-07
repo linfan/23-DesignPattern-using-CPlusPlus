@@ -35,9 +35,11 @@ My implementation of 23 design pattern using C++
 - [22]. 访问者模式 (Visitor Pattern) 
 - [23]. 状态模式 (State Pattern)
 
-- The code consult Terry's blog of C# design pattern:
+**Reference:**
+
+- The code consult Terry's blog of C# design pattern:<br>
 http://www.cnblogs.com/abcdwxc/archive/2007/10/30/942834.html
-- All UML diagrams pickup from 老唐's blog:
+- All UML diagrams pickup from 老唐's blog:<br>
 http://blog.csdn.net/sfdev/article/details/2845488
 
 > Proud using [StackEdit](https://stackedit.io/).
