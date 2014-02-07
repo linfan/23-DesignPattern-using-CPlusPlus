@@ -1,13 +1,13 @@
-# Compiled Object files
-*.slo
-*.lo
+# Compiled binary
+main
+
+# Compiled object files
 *.o
 
-# Compiled Dynamic libraries
+# Compiled libraries
 *.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
+
+# Others
+build.log
+ignore/*
